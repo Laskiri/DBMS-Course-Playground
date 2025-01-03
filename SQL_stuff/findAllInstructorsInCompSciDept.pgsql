@@ -1,0 +1,1 @@
+SELECT name from instructor WHERE dept_name = 'Biology';
