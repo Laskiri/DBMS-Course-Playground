@@ -1,5 +1,0 @@
-You can use the sql files in this folder to quickly 
-settup schema for a new DB and populate it with data.
-
-1. Query the DDL sql script on your new DB to create tables
-2. Query either of the other scripts to populate data
