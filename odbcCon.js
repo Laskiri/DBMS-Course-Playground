@@ -11,7 +11,7 @@ async function main() {
     const connection = await odbc.connect("DSN="+DSN);
 
     // Execute a query
-    const result = await connection.query('SELECT * FROM instructor');
+    const result = await connection.query('ALTER TABLE quiz1 ADD passed BOOLEAN;');
 
     // Process the result
     result.forEach(row => {

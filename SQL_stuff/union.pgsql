@@ -1,0 +1,3 @@
+SELECT * FROM quiz1
+UNION
+SELECT * FROM quiz2

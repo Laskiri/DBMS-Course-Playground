@@ -1,0 +1,1 @@
+SELECT name FROM quiz1 INTERSECT SELECT name FROM quiz2

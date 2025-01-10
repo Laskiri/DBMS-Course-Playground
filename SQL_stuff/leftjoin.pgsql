@@ -1,0 +1,1 @@
+SELECT * FROM student LEFT JOIN takes ON student.ID = takes.ID;

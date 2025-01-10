@@ -1,0 +1,1 @@
+SELECT name FROM quiz1 EXCEPT SELECT name FROM quiz2

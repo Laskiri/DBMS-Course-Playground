@@ -70,7 +70,7 @@ create table student
 	 foreign key (dept_name) references department (dept_name)
 		on delete set null
 	);
-
+74251.722500000000
 create table takes
 	(ID			varchar(5), 
 	 course_id		varchar(8),

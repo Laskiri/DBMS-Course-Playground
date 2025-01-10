@@ -1,1 +1,1 @@
-SELECT * FROM instructor
+Select * from teaches natural join instructor

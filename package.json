@@ -4,6 +4,7 @@
     "odbc": "^2.4.9",
     "pg": "^8.13.1",
     "postgres": "^3.4.5",
+    "ra-to-sql": "^0.1.4",
     "sequelize": "^6.37.5"
   },
   "type": "module"
